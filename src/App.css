@@ -22,6 +22,7 @@
   font-size: large;
 }
 
+<<<<<<< HEAD
 .Person{
   margin: 0px auto;
   width:35%;
@@ -34,6 +35,8 @@
 
 
 
+=======
+>>>>>>> 4855a6ae264c6e24441d4e87aef800d0e9f64cb7
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

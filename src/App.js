@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+<<<<<<< HEAD
 // import logo from './logo.svg';
 import './App.css';
 import Person from './Person/Person';
@@ -40,10 +41,23 @@ class App extends Component {
 
       </div>
 
+=======
+
+import Counter from './containers/Counter/Counter';
+import './App.css';
+
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+       <Counter />
+      </div>
+>>>>>>> 4855a6ae264c6e24441d4e87aef800d0e9f64cb7
     );
   }
 }
 
+<<<<<<< HEAD
 const mapStateToProps = state => {
   return {
     userDetails: state.userDetails
@@ -57,3 +71,6 @@ const mapStatetoDispacth = dispatch => {
 }
 
 export default connect(mapStateToProps, mapStatetoDispacth)(App);
+=======
+export default App;
+>>>>>>> 4855a6ae264c6e24441d4e87aef800d0e9f64cb7

@@ -1,11 +1,19 @@
 {
+<<<<<<< HEAD
   "name": "newreduxassignment",
+=======
+  "name": "newreduxtestproj",
+>>>>>>> 4855a6ae264c6e24441d4e87aef800d0e9f64cb7
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+<<<<<<< HEAD
     "react-redux": "^7.2.1",
+=======
+    "react-redux": "^7.2.0",
+>>>>>>> 4855a6ae264c6e24441d4e87aef800d0e9f64cb7
     "react-scripts": "1.1.5",
     "redux": "^4.0.5"
   },
